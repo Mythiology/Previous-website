@@ -1,94 +1,27 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](https://johno.com/)
-([@4lpine](https://twitter.com/4lpine)).
+Who am I?
+---
 
-Checkout the [GitHub repository](https://github.com/johno/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](https://opensource.org/licenses/MIT)).
+Im just a Singaporean Junior college student who is playing capture the flag competitions for fun and learning about the areas of cybersecruity. Co-foundeder and President of Rvctf, if you are from rvctf, I hope you use these resources to the fullest! ;)
 
-Thanks to the following:
+I am usually under the alias of "Mythiology" if you are in a competition, you can check if im in it too haha.
 
-* [BASSCSS](https://basscss.com/)
-* [Jekyll](https://jekyllrb.com/)
-* [Refills](https://refills.bourbon.io/)
-* [Type Scale](https://type-scale.com/)
+I usually play for these two teams:
 
-List of contributors:
+* [Th3 Clu3le55 0nes](https://ctftime.org/team/157575)
+* [Social Engineering Experts](https://ctftime.org/team/151372)
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andreas Niedermair
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Benjamin Sinkula
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- David Moodie
-- Donate Altenburger
-- Eddie Schoute
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jack Platten
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Noel Bautista
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Renato Fialho
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Wilfred Hughes
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+
+Projects
+---
+Since I take h2 computing, I do some projects in my free time but I dont have the time to compile them together ;-;
+
+Contact
+---
+If you want to contact me for some projects, please contact this email : themythiology@gmail.com
