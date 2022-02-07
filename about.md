@@ -8,7 +8,7 @@ tags: about
 Who am I?
 ---
 
-Im just a Singaporean Junior college student who is playing capture the flag competitions for fun and learning about the areas of cybersecruity. Co-foundeder and President of Rvctf, if you are from rvctf, I hope you use these resources to the fullest! ;)
+Im just a Singaporean Junior college student who is playing capture the flag competitions for fun and learning about the areas of cybersecruity. Co-founder and President of Rvctf, if you are from rvctf, I hope you use these resources to the fullest! ;)
 
 I am usually under the alias of "Mythiology" if you are in a competition, you can check if im in it too haha.
 

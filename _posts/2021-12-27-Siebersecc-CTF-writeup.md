@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Sieberrsec writeup
-date:       2014-06-09 12:32:18
+date:       2021-12-7 12:32:18
 summary:    Massive W
 categories: Ctf writeups
 ---

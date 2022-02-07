@@ -1,8 +1,8 @@
 ---
-layout: post
-title: The Cyber Grabs Ctf writeup
-date: 2022-02-7 14:37
-summary: One of my best ctf performance so far.
+layout:     post
+title:      The Cyber Grabs Ctf writeup
+date:       2022-02-7 14:37
+summary:    One of my best ctf performance so far.
 categories: Ctf writeups
 ---
 ## Competition details
